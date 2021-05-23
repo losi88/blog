@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Test
+title: Test.md
 nav_order: 2
+published: true
 ---
 ## A New Post
 
