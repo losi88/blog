@@ -1,6 +1,6 @@
 ---
 layout: default
-title: doc/Test.md
+title: docs/Test.md
 nav_order: 2
 published: true
 ---
