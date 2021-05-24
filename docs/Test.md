@@ -2,7 +2,7 @@
 layout: default
 title: Test
 nav_order: 2
-published: false
+published: true
 ---
 1. TOC
 {:toc}
