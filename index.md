@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HOME
+title: home
 nav_order: 1
 description: "May the Ari be with you."
 permalink: /

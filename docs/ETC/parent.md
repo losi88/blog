@@ -1,9 +1,9 @@
 ---
 layout: default
-title: ETC
+title: etc
 nav_order: 100
 has_children: true
-permalink: /docs/ETC
+permalink: /docs/etc
 ---
 
-# ETC
+# etc

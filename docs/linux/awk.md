@@ -1,14 +1,14 @@
 ---
 layout: default
-title: "command"
-parent: LINUX
-nav_order: 2
+title: "awk"
+parent: Linux
+nav_order: 1
 published: true
 ---
 
-# command
+# awk
 {: .no_toc }
-
+---
 ## Table Of Contents
 {: .no_toc .text-delta }
 
@@ -16,22 +16,20 @@ published: true
 {:toc}
 
 ---
-## awk
-
-### Option
+## Option
 
 ```
 -F fs            : Use fs for the input field separator
 ```
 
-### Using Variables
+## Using Variables
 ```
 $0 for the whole line.
 $1 for the first field.
 $2 for the second field.
 $n for the nth field.
 ```
-### Difference between single and double quotes in awk 
+## Difference between single and double quotes in awk 
 Based on the comments above by awk experts and some research, I am posting this answer:
 ```
 awk strings are enclosed in double quotes, not single quotes; more precisely: single quotes are not string delimiters in awk, unlike shell
@@ -49,14 +47,9 @@ a) use a variable, as in awk -v q="'" '{ print q }' ...
 b) use octal or hex notation, as in awk '{ print "\047"$0"\047" }' ...
 ```
 
-### Reference
+## Reference
 ```
 https://www.geeksforgeeks.org/awk-command-unixlinux-examples/
 https://stackoverflow.com/questions/44445852/difference-between-single-and-double-quotes-in-awk
 ```
 ---
-## Regex
-### Regex Graph
-```
-https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24
-```

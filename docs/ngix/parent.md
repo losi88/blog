@@ -1,9 +1,9 @@
 ---
 layout: default
-title: linux
+title: nginx
 nav_order: 1
 has_children: true
-permalink: /docs/linux/
+permalink: /docs/nginx/
 ---
 
-# Linux
+# Nginx

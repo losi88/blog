@@ -1,9 +1,9 @@
 ---
 layout: default
-title: linux
+title: jekyll
 nav_order: 1
 has_children: true
-permalink: /docs/linux/
+permalink: /docs/jekyll/
 ---
 
-# Linux
+# jekyll

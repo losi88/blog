@@ -1,9 +1,9 @@
 ---
 layout: default
-title: C++
+title: c++
 nav_order: 2
 has_children: true
-permalink: /docs/C++
+permalink: /docs/c++
 ---
 
-# C++
+# c++
